@@ -139,4 +139,3 @@ st.pyplot(plt.gcf())
 
 [deprecation]
 showPyplotGlobalUse = false
-
